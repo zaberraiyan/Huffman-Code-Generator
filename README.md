@@ -7,5 +7,7 @@ USF Data Structures
 -> Binary Tree
 
 Compress String
+
 Serialize Tree
+
 Decompress String
